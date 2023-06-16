@@ -1,4 +1,3 @@
-@@ -1,8 +1,4 @@
 
     [git-page/projects](https://Functionaljerk.github.io)  
     [bandcamp](https://davidhanraths.bandcamp.com)  
