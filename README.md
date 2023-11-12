@@ -1,6 +1,6 @@
 
-    [git-page/projects](https://Functionaljerk.github.io)  
-    [bandcamp](https://davidhanraths.bandcamp.com)  
+[git-page/projects](https://Functionaljerk.github.io)  
+[bandcamp](https://davidhanraths.bandcamp.com)  
 
 <!---
 FunctionalJerk/FunctionalJerk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
